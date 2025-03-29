@@ -38,6 +38,7 @@ defaults:
 colors:
   #Primary color
   primary: "#5DAC81"
+  #primary: "#2EA9DF"
   # Secondary color (TBD)
   secondary:
   # Default theme mode initial value (will be overwritten by prefer-color-scheme)

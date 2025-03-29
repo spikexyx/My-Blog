@@ -17,7 +17,7 @@ info:
   # Author name
   author: Ethan Xu
   # Site URL
-  url: https://redefine.ohevan.com
+  url: https://ethanxu.netlify.app
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -306,7 +306,7 @@ articles:
     min2read: true # Whether to display reading time
   # Author label
   author_label:
-    enable: true # Whether to enable
+    enable: false # Whether to enable
     auto: false # Whether to automatically add author label, e.g. Lv1, Lv2, Lv3...
     list: []
   # Code block settings

@@ -83,7 +83,7 @@ global:
     enable: true # enable website counter or not
     site_pv: true # site page view
     site_uv: true # site unique visitor
-    post_pv: true # post page view
+    post_pv: false # post page view
   # Whether to enable single page experience (using swup). See https://swup.js.org/. similar to pjax
   single_page: true
   # Whether to enable Preloader.
@@ -205,6 +205,9 @@ navbar:
     Archives:
       path: /archives
       icon: fa-regular fa-archive # can be empty
+    Tags:
+      path: /tags
+      icon: fa-regular fa-tags
     About:
       path: /about
       icon: fa-regular fa-user
@@ -251,6 +254,9 @@ home:
       Archives:
         path: /archives
         icon: fa-regular fa-archive
+      Tags:
+        path: /tags
+        icon: fa-regular fa-tags
       About:
         path: /about
         icon: fa-regular fa-user
@@ -401,15 +407,16 @@ comment:
 # Docs: https://redefine-docs.ohevan.com/footer
 footer:
   # Show website running time
-  runtime: true # show website running time or not
+  runtime: false # show website running time or not
   # Icon in footer, write fontawesome icon code here
-  icon: '<i class="fa-solid fa-heart fa-beat" style="--fa-animation-duration: 0.5s; color: #f54545"></i>'
+  # icon: '<i class="fa-solid fa-heart fa-beat" style="--fa-animation-duration: 0.5s; color: #f54545"></i>'
+  icon: '<i class="fa-regular fa-rectangle-terminal" style="color: #2EA9DF"></i>'
   # The start time of the website, format: YYYY/MM/DD HH:mm:ss
   start: 2025/3/27 12:00:00
   # Site statistics
-  statistics: false # show site statistics or not (total articles, total words)
+  statistics: true # show site statistics or not (total articles, total words)
   # Footer message
-  customize: "你说的对，但是 X-CyberSpace 是一款由 EthanXu 自行搭建的博客网站，前面忘了，后面忘了"
+  customize: "你被强化了，快上！"
   # ICP record number. See https://beian.miit.gov.cn/
   icp:
     enable: false # Whether to enable
@@ -469,7 +476,7 @@ page_templates:
   # Friend Links page column number
   friends_column: 2
   # Tags page style
-  tags_style: blur # blur, cloud
+  tags_style: cloud # blur, cloud
 # PAGE TEMPLATES <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 

@@ -25,7 +25,7 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: /imgs/binary-code.png
+  favicon: /imgs/code.png
   # Site logo
   logo: /imgs/icons8-deathly-hallows-96.png
   # Site avatar

@@ -1,7 +1,8 @@
 ---
 title: new post test
 date: 2025-03-29 18:05:21
-tags:
+tags: [test]
+cover: "/imgs/wallhaven-exmo98.jpg"
 ---
 New post test.
 >hello

@@ -11,7 +11,7 @@
 # Docs: https://redefine-docs.ohevan.com/basic/info
 info:
   # Site title
-  title: X-CyberSpace
+  title: Ethan's CyberSpace
   # Site subtitle
   subtitle:
   # Author name
@@ -129,7 +129,7 @@ home_banner:
     light: /imgs/wallhaven-d6y12l.jpg # light mode
     dark: /imgs/wallhaven-d6y12l.jpg # dark mode
   # Home banner title
-  title: X-CyberSpace
+  title: 𝕰𝖙𝖍𝖆𝖓'𝖘 𝕮𝖞𝖇𝖊𝖗𝕾𝖕𝖆𝖈𝖊
   # Home banner subtitle
   subtitle:
     text: ["Welcome to My Personal Website."] # subtitle text, array
@@ -206,9 +206,9 @@ navbar:
     Archives:
       path: /archives
       icon: fa-regular fa-archive # can be empty
-    Tags:
-      path: /tags
-      icon: fa-regular fa-tags
+#    Tags:
+#      path: /tags
+#      icon: fa-regular fa-tags
     About:
       path: /about
       icon: fa-regular fa-user
@@ -417,7 +417,7 @@ footer:
   # Site statistics
   statistics: true # show site statistics or not (total articles, total words)
   # Footer message
-  customize: "你被强化了，快上！"
+  customize: "𝒴𝑜𝓊'𝓇𝑒 𝓃𝒶𝓃𝑜 𝒷𝑜𝑜𝓈𝓉𝑒𝒹 !  𝒢𝑒𝓉 𝒾𝓃 𝓉𝒽𝑒𝓇𝑒 !"
   # ICP record number. See https://beian.miit.gov.cn/
   icp:
     enable: false # Whether to enable

@@ -4,6 +4,8 @@ date: 2024-12-25 19:35:08
 tags: 
   - 建站手记
 cover: "/imgs/screen-250330.png"
+comment: true
+excerpt: "本站的建站手记。本站使用 Hexo + Netlify + Redefine theme 进行构建。"
 ---
 
 {% note success %} 

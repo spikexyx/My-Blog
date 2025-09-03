@@ -6,4 +6,5 @@ tags:
 categories:
     - C++
 cover: "/imgs/wallhaven-exmo98.jpg"
+comment: false
 ---

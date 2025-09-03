@@ -8,6 +8,7 @@ categories:
     - C++
 cover: "/imgs/wallhaven-exmo98.jpg"
 excerpt: "本文是对 C++ STL 容器的总结笔记，包含十六大 STL 容器与 pair & tuple，内容包括它们的底层原理和特性分析，以及常用函数和横向对比等。"
+comment: false
 ---
 
 ## 序言

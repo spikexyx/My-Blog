@@ -154,6 +154,14 @@ git commit -m "commit"
 git push
 ```
 
+## 评论系统
+选用 waline，redifne 主题的 config 里可以直接指定 waline。
+具体的配置在 `_config.redefine.yml` 的 `comments` 模块里进行。
+waline 网站：https://waline.js.org/
+具体操作直接参照网站文档进行即可，参考：https://waline.js.org/guide/get-started/
+数据库使用leancloud，网址为：https://console.leancloud.app/apps
+leancloud 的网站配置同样使用 netlify 进行，参考：https://waline.js.org/guide/deploy/netlify.html
+
 ## 附件
 
 1. 我的 _config.redefine.yml

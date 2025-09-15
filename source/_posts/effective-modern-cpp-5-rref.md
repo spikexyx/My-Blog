@@ -6,7 +6,7 @@ tags:
     - effective-modern-cpp
 categories:
     - C++
-cover: "/imgs/wallhaven-exmo98.jpg"
+cover: "/imgs/eff-modern-cpp-img.png"
 excerpt: "Effective Modern C++ 第五章笔记 - 右值引用，移动语义，完美转发"
 comment: false
 ---

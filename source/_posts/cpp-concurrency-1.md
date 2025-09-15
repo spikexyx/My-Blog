@@ -5,7 +5,7 @@ tags:
     - cpp
 categories:
     - C++
-cover: "/imgs/wallhaven-exmo98.jpg"
+cover: "/imgs/cpp-concurrency.png"
 excerpt: "本文是对 C++ 并发编程基础部分的总结笔记，包含基础的thread使用、同步原语，以及一些modern cpp的高级抽象等。"
 comment: false
 ---

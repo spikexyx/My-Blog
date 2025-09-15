@@ -5,7 +5,7 @@ tags:
     - cpp
 categories:
     - C++
-cover: "/imgs/cpp-concurrency.png"
+cover: "/imgs/cpp/sleep-code-repeat.png"
 excerpt: "本文是对 C++ 并发编程一些进阶知识的学习笔记，包含死锁处理、线程池、C++17&20 新特性等。"
 comment: false
 ---

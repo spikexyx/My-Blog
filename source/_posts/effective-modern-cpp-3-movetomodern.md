@@ -6,7 +6,7 @@ tags:
     - effective-modern-cpp
 categories:
     - C++
-cover: "/imgs/eff-modern-cpp-img.png"
+cover: "/imgs/simple-code-wall.png"
 excerpt: "Effective Modern C++ 第三章笔记 - 移步现代C++"
 comment: false
 ---

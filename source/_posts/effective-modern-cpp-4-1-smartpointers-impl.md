@@ -6,7 +6,7 @@ tags:
     - effective-modern-cpp
 categories:
     - C++
-cover: "/imgs/eff-modern-cpp-img.png"
+cover: "/imgs/simple-code-wall.png"
 excerpt: "Effective Modern C++ 笔记番外篇 - 智能指针手撕"
 comment: false
 ---
